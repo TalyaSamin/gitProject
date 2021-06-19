@@ -11,6 +11,7 @@ import Example from './Components/modal/modalTry'
 function App() {
   return (
     <div className="App">
+      TALYA changed this line right now
       <UserProvider>
         <Application></Application>
       </UserProvider>
