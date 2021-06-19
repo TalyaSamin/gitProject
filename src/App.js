@@ -10,7 +10,7 @@ import LocationSearchInput from './Components/selectExample/googlePlacesExample'
 import Example from './Components/modal/modalTry'
 function App() {
   return (
-    <div className="App">
+    <div className="Appnm">
       <UserProvider>
         <Application></Application>
       </UserProvider>
