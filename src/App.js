@@ -11,7 +11,12 @@ import Example from './Components/modal/modalTry'
 function App() {
   return (
     <div className="Appnmggg">
-      TALYA changed this line before 2 minutes:
+      היי,
+      ממצב איתך?
+      אין עלינו!!!!!!!!!!!!
+      מגניב שהצלחנו.......
+      חסר לך ולא נצליח חחחחח
+      טוב חייבת לסיים
       <UserProvider>
         <Application></Application>
       </UserProvider>
