@@ -11,7 +11,7 @@ import Example from './Components/modal/modalTry'
 function App() {
   return (
     <div className="App">
-      TALYA changed this line before 2 minutes:
+      TALYA changed this line before 1000 minutes:
       <UserProvider>
         <Application></Application>
       </UserProvider>
